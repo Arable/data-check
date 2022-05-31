@@ -1,2 +1,2 @@
 # data-check
-to check the data and other test
+this repo is basically created to do some data check and comparison
